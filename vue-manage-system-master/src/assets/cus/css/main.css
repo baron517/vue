@@ -1,0 +1,77 @@
+.mw{width:1200px;margin:0 auto;}
+
+.mw{width:870px;margin:0 auto;}
+        .list{background: rgba(255,255,255,0.5);border-radius: 10px;padding:30px 20px 20px 20px;margin-top:20px;;box-sizing: border-box;min-height:400px;}
+        .list a{display: block;color:#333;padding:3px 0;position: relative;}
+        .list a .right-text{position: absolute;right:20px;}
+        .list .top-title{font-size:16px;padding:5px 0;color:#db0101;font-weight: bold;}
+        .link-list{border-radius: 10px;}
+        #c-login .c-login{height:auto;}
+        
+        
+.list-col.list{background: rgba(255,255,255,0.5);border-radius: 10px;padding:10px 20px 20px 20px;margin-top:20px;;box-sizing: border-box;}
+.list-col.list a{display: block;color:#333;padding:5px 0;position: relative;}
+.list-col.list a .no{display: inline-block;width:36px;}
+.list-col.list a .right-text{position: absolute;right:20px;}
+.list-col.list a .right-text .company{display: inline-block;width:120px;}
+.list-col.list a .right-text .name{width:120px;display:inline-block;}
+.list-col.list a .right-text .date-text{width:80px;display: inline-block;}
+.list-col.list .top-title{font-size:16px;padding:5px 0;color:#db0101;font-weight: bold;}
+.link-list{border-radius: 10px;}
+#c-login .c-login{height:auto;}
+        
+.content-col{font-size:15px;line-height:24px;}
+
+.comment .small-title{color:#db0101;font-weight:bold;font-size:15px;}
+.comment-list li{padding:5px 200px 5px 80px;position:relative;color:#000;}
+.comment-list li p{margin:0;}
+.comment-list li .name{position: absolute;left:0;top:5px;color:#000;}
+.comment-list li .time{position: absolute;right:0;top:5px;color:#999;font-size:13px;}
+
+.search-col{padding-bottom:10px;}
+.search-col button{background: #db0101;color: #fff;border:0;padding:2px 15px;}
+.search-col label{display: inline-block;font-weight:normal;}
+.search-col input{margin-right:10px;}
+.form-col{padding:10px 30px;}
+.form-col input{width:100%;}
+.form-col textarea{width:100%;height:200px;background:rgba(255,255,255,1);box-sizing:border-box;padding:5px 20px;}
+.upload-col{background: #fff;display:inline-block;height:90px;width:100px;text-align:center;padding-top:20px;color:#999;
+    position: relative;overflow:hidden;
+}
+.upload-col i{display: block;color:#999;font-size:30px;padding-bottom:5px;}
+.upload-col input{position: absolute;left:0;top:0;opacity:0;width:100px;height:90px;}
+
+.form-col .form-row{padding:10px 0;}
+.form-col .small-title{color:#000;}
+.btn-col{text-align:center;}
+.bottom-btn{background: #db0101;color:#fff;display:inline-block;border:0;padding:6px 60px;}
+
+.top-text{font-weight:bold;}
+.top-text span{display: inline-block;margin-right:30px;}
+.detail-col{margin-bottom:10px;}
+.detail-col .small-title{margin-bottom:5px;}
+
+.top-title-text{text-align:center;font-weight:bold;padding:5px 0 10px 0;}
+.jindu-list li{position: relative;}
+.jindu-list{padding:10px 120px;}
+.jindu-list li{padding:5px 10px 5px 100px;}
+.jindu-list li .time-text{position: absolute;left:0;top:6px;color:#666;}
+
+.button-btn{text-align: center;padding:20px 0;}
+.button-btn a{background: #db0101;color:#fff;border:0;padding:5px 20px;display:inline-block;}
+
+
+.tongji-list{padding:30px 0 0 50px;}
+.tongji-list span{display: inline-block;width:300px;padding:10px 0;font-size:18px;}
+
+.img-list img{width:196px;display:block;float:left;margin-right:10px;height:128px;margin-bottom:10px;}
+
+.el-pagination{text-align: right;padding-top:20px!important;}
+.el-pagination.is-background .el-pager li:not(.disabled).active{background: #db0101!important;}
+
+#c-login{background:url(../img/c_login_bj.jpg);width:100%;height:100%;filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";-moz-background-size:100% 100%;background-size:100% 100%;background-attachment: fixed;}
+
+
+
+
+
